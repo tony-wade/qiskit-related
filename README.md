@@ -7,4 +7,4 @@ I would be honored if anything here proves helpful to you, and even more thrille
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICENSE) file for details.
+[Apache-2.0 license](./LICENSE)
